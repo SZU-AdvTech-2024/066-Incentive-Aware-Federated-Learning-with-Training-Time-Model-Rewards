@@ -1,0 +1,7 @@
+@inproceedings{REPO066,
+    author = "Wu, Zhaoxuan and Amiri, Mohammad Mohammadi and Raskar, Ramesh and Low, Bryan Kian Hsiang",
+    booktitle = "The Twelfth International Conference on Learning Representations",
+    title = "{Incentive-Aware Federated Learning with Training-Time Model Rewards}",
+    url = "https://openreview.net/forum?id=FlY7WQ2hWS",
+    year = "2024"
+}
