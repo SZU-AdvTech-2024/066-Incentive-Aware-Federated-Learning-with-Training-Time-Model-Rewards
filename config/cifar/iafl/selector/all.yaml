@@ -1,0 +1,4 @@
+Selector:
+  name: AllSelector
+  args:
+    frac: 1

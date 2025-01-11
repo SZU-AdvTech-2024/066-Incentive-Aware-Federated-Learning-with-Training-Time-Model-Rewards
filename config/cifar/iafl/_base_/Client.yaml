@@ -1,0 +1,13 @@
+Sampler:
+  name: DirichletSampler
+  args:
+    num_clients: 30
+    num_classes: 10
+    beta: 0.1
+
+Noise:
+  alpha: 0
+  mu: 0
+  sigma: 0
+  lower: 0
+  upper: 0

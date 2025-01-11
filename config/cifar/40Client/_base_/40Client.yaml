@@ -1,0 +1,13 @@
+Sampler:
+  name: UniformSampler
+  args:
+    num_clients: 40
+    #num_classes: 10
+    #beta: 0.5
+    #DirichletSampler
+Noise:
+  alpha: 0.3
+  mu: 0.35
+  sigma: 0.45
+  lower: 0
+  upper: 1

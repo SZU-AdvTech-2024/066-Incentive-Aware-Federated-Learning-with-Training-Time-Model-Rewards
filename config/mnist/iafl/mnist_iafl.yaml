@@ -1,0 +1,9 @@
+_base_:
+  - ./_base_/Client.yaml
+  - ./_base_/algo.yaml
+  - ./_base_/task.yaml
+  - ./selector/all.yaml
+
+
+algo: 'iafl'
+save_path: ./result/mnist/iafl

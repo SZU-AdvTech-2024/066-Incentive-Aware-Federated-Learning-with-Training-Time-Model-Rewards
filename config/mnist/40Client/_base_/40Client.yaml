@@ -1,0 +1,11 @@
+Sampler:
+  name: UniformSampler
+  args:
+    num_clients: 40
+
+Noise:
+  alpha: 0.3
+  mu: 0.30
+  sigma: 0.45
+  lower: 0
+  upper: 1
